@@ -46,7 +46,7 @@
         <tr>
           <td>Akam Pixel</td>
           <td>✅ Concluído</td>
-          <td>Computador</td>
+          <td>Windows</td>
         </tr>
         <tr>
           <td>Ligeirinho App</td>
